@@ -1,0 +1,9 @@
+{
+  "valid": [
+    {"label": "demo", "username": "demo", "password": "1234"}
+  ],
+  "invalid": [
+    {"label": "unknown_user", "username": "no_such_user_xyz", "password": "wrong-password-xyz"},
+    {"label": "empty", "username": "", "password": ""}
+  ]
+}
